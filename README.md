@@ -52,6 +52,10 @@ spec:
   selector:
     app: my-app
 ```
-## Скриншт вывода команды
+## Ссылки на скриншоты
+https://drive.google.com/file/d/1JgAn0Gy-FH63G8_xwC19UJVsmhZ3dM89/view?usp=sharing
 
+https://drive.google.com/file/d/11BLU0JH3SvLRMCSJJQEm21CAOAX2nnYb/view?usp=sharing
 
+## Ссылка на видео
+https://drive.google.com/file/d/1lrWwW24gfK5MN9RBnp4Lvo5pRA0IVbdA/view?usp=sharing
